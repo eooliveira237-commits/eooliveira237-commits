@@ -10,5 +10,4 @@
 
 
 
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ!https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20261024%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T164510Z&X-Amz-Expires=300&X-Amz-Signature=cc2b0091b7954070e261e77e5160348c224070ac16837f20316b41e4620f1c29&X-Amz-SignedHeaders=host&response-content-type=image%2Fgif
+![paisagem](https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20261024%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261024T164510Z&X-Amz-Expires=300&X-Amz-Signature=cc2b0091b7954070e261e77e5160348c224070ac16837f20316b41e4620f1c29&X-Amz-SignedHeaders=host&response-content-type=image%2Fgif)
